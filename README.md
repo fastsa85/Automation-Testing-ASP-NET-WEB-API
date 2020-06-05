@@ -9,7 +9,7 @@ http://localhost:7000/swagger/index.html
 (this action will be also automated soon)
 
 # Technologies and Tools:
-.Net Core  
+C#.Net Core  
 Asp.Net Core 
 Entity Framework  
 LINQ  
