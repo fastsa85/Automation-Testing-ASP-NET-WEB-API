@@ -9,11 +9,13 @@ http://localhost:7000/swagger/index.html
 (this action will be also automated soon)
 
 # Technologies and Tools:
-.Net Core
-Asp.Net Core
-NUnit
-SpecFlow
-RestSharp
-FluentAssertions
-Dependecy Injection
-Docker
+.Net Core  
+Asp.Net Core 
+Entity Framework  
+LINQ  
+NUnit  
+SpecFlow  
+RestSharp  
+FluentAssertions  
+Dependecy Injection  
+Docker  
