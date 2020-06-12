@@ -10,7 +10,7 @@ http://localhost:7000/swagger/index.html
 
 # Technologies and Tools:
 C#.Net Core  
-Asp.Net Core 
+Asp.Net Core   
 Entity Framework  
 LINQ  
 NUnit  
